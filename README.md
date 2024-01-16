@@ -23,8 +23,8 @@ Data contains the open-access data sets to accompany all three Studies. Data str
 
 
 
-### Network Analysis Code  
-
+### Network Analysis Code
+https://github.com/Lucy-Wal/Autism_ADHD_Adults/blob/3477f62c13ae49b949e13d6ef51aad55b65426e1/Code/Network_Analysis_Code.R#L1-L245
 ### Study 3 Code 
-
+https://github.com/Lucy-Wal/Autism_ADHD_Adults/blob/3477f62c13ae49b949e13d6ef51aad55b65426e1/Code/Study_3_Code.R#L1-L232
 ### Data
